@@ -6,7 +6,7 @@ Please check this document in order to know how you can contribute and make the 
 
 ## Issue tracker
 
-If you want to report an issue or request a feature, please first check if the issue or feature is already reported, solved or requested in our issue tracker [here](`<your_link>`).
+If you want to report an issue or request a feature, please first check if the issue or feature is already reported, solved or requested in our issue tracker `https://github.com/unicoderns/<project_name>/issues`.
 
 The issue tracker will be the main way to report bugs or request features, but please follow the instuctions below in order to keep the order.
 
